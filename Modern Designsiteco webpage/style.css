@@ -85,7 +85,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background: url('showcase.jpg') no-repeat 0 -400px;
+    background: url('showcase.png') no-repeat 0 -400px;
     text-align: center;
     color: #ffffff;
 }
@@ -137,7 +137,8 @@ header a:hover{
 }
 
 #boxes .box img{
-    width: 90px;
+    width: 110px;
+    height: 90px;
 }
 
 /* Sidebar */
